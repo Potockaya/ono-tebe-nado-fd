@@ -53,10 +53,6 @@
   justify-content: end;
 }
 
-.header__link_active {
-  text-underline-offset: 0.205em;
-}
-
 .cover {
   position: relative;
   background-image: url(../images/cover.jpg);
